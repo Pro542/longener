@@ -1,0 +1,4 @@
+/build/
+/longener
+.env
+deploy-ec2.sh
